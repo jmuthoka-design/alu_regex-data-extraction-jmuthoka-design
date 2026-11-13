@@ -11,8 +11,6 @@ A Python project that uses regular expressions (Regex) to extract five types of 
 The project uses Python's built-in "re" module. It reads text from "test_data.txt", searches for matches, and prints the results in the terminal.
 
 ## Project structure
-
-
 alu_regex-data-extraction-jmuthoka-design/
 ├── main.py
 ├── test_data.txt
