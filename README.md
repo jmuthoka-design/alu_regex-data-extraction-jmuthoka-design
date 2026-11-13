@@ -82,7 +82,6 @@ The tests check valid examples and confirm that several malformed examples are n
 - Currency: dollar amounts such as `$19.99`, `$1,234.56`, and `$5`.
 - Hashtags: a `#` followed by a letter and then letters, digits, or underscores.
 
-These patterns are designed for the assignment examples. They are practical extraction patterns, not complete validators for every possible real-world format.
+These patterns are designed for the assignment examples. They are practical extraction patterns. 
 
-## Author
-Jemima Wavinya Muthoka
+
