@@ -38,7 +38,7 @@ Running `python3 main.py` with the included `test_data.txt` produces:
 
 ```text
 REGEX DATA EXTRACTION RESULTS
-================================
+
 
 Email addresses:
   - jemimawavinya89@gmail.com
